@@ -21,7 +21,7 @@ Este é um projeto de página pessoal estilo *Linktree*, desenvolvido como solu�
 
 ### Links do projeto
 
-* [Repositório do Painel de Controle](https://github.com/Tales-Santos7/meus-Links-front-vercel)
+* [Repositório do Painel de Controle](https://github.com/Tales-Santos7/meus-Links-painel)
 * [Back-end (Render)](https://github.com/Tales-Santos7/Meus-Links-back)
 
 ### Construído com
